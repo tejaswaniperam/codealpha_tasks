@@ -25,4 +25,18 @@ A simple program that accepts stock names and quantities and calculates the tota
 ### Hangman Game
 
 ```bash
+Then click **Commit changes**.
+
+### 🎯 After that, we're ready for the form
+
+Your screenshot says:
+
+- **2 or 3 tasks** → you've completed 2 ✅
+- **LinkedIn post/video** → optional
+- **GitHub repository named `codealpha_tasks`** → you're doing this ✅
+- **Submit by 10 September 2026** → deadline shown on your form
+
+So once the README is added, **we can move directly to filling the Google submission form**.
+
+Send me a screenshot of the `codealpha_tasks` repository after adding the README, and I'll check it before you submit. 😎
 python hangman.py
