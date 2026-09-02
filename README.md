@@ -23,6 +23,3 @@ A simple program that accepts stock names and quantities and calculates the tota
 ## How to Run
 
 ### Hangman Game
-
-```bash
-python hangman.py
